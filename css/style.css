@@ -47,6 +47,19 @@
    color:pink;
    text-align: center;
 }
+#card h4 {
+  font-size:3em;
+  margin:0;
+  color:pink;
+  text-align: center;
+}
+#card h3 {
+  font-size:3em;
+  margin:0;
+  color:pink;
+  text-align: center;
+}
+
 
 
 #card p {
